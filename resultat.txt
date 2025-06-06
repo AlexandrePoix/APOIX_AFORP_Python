@@ -1,0 +1,178 @@
+-------------
+Infos système
+-------------
+
+Utilisation CPU
+
+Total CPU : 27.0 %
+CPU  0: [█████████████████████████████████████-------------]  75.0%
+CPU coeur 0 : 75.0 %
+
+CPU  1: [████████████████----------------------------------]  33.3%
+CPU coeur 1 : 33.3 %
+
+CPU  2: [████████████████----------------------------------]  33.3%
+CPU coeur 2 : 33.3 %
+
+CPU  3: [--------------------------------------------------]   0.0%
+CPU coeur 3 : 0.0 %
+
+CPU  4: [████████████████----------------------------------]  33.3%
+CPU coeur 4 : 33.3 %
+
+CPU  5: [--------------------------------------------------]   0.0%
+CPU coeur 5 : 0.0 %
+
+CPU  6: [████████████████----------------------------------]  33.3%
+CPU coeur 6 : 33.3 %
+
+CPU  7: [--------------------------------------------------]   0.0%
+CPU coeur 7 : 0.0 %
+
+CPU  8: [--------------------------------------------------]   0.0%
+CPU coeur 8 : 0.0 %
+
+CPU  9: [████████████████----------------------------------]  33.3%
+CPU coeur 9 : 33.3 %
+
+CPU 10: [█████████████████████████████████-----------------]  66.7%
+CPU coeur 10 : 66.7 %
+
+CPU 11: [--------------------------------------------------]   0.0%
+CPU coeur 11 : 0.0 %
+
+
+Température CPU
+
+Temperature
+40.0
+CPU Package
+46.75
+GPU Core
+57.0
+Temperature
+39.0
+GPU Hot Spot
+57.0
+CPU CCD #1
+43.75
+
+Mémoire RAM
+
+Totale : 15.93 GB
+Utilisée : 10.47 GB
+Libre : 5.46 GB
+
+Utilisation Disque
+
+C:\ : 78.5% utilisé
+D:\ : 27.2% utilisé
+
+Activité Réseau
+
+Envoyés: 43.92 MB
+Reçus: 877.79 MB
+
+Statistiques Réseau par interface
+
+Connexion au réseau local 2 : Envoyés: 0.00 MB | Reçus: 0.00 MB
+OpenVPN Wintun : Envoyés: 0.00 MB | Reçus: 0.00 MB
+Ethernet 4 : Envoyés: 43.92 MB | Reçus: 877.79 MB
+Connexion au réseau local : Envoyés: 0.00 MB | Reçus: 0.00 MB
+OpenVPN TAP-Windows6 : Envoyés: 0.00 MB | Reçus: 0.00 MB
+OpenVPN Data Channel Offload : Envoyés: 0.00 MB | Reçus: 0.00 MB
+Ethernet 2 : Envoyés: 0.00 MB | Reçus: 0.00 MB
+Connexion réseau Bluetooth 9 : Envoyés: 0.00 MB | Reçus: 0.00 MB
+Loopback Pseudo-Interface 1 : Envoyés: 0.00 MB | Reçus: 0.00 MB
+
+Tapez 'quit' pour quitter.
+
+-------------
+Infos système
+-------------
+
+Utilisation CPU
+
+Total CPU : 16.4 %
+CPU  0: [██████████████████████----------------------------]  45.9%
+CPU coeur 0 : 45.9 %
+
+CPU  1: [███████████---------------------------------------]  23.9%
+CPU coeur 1 : 23.9 %
+
+CPU  2: [████████████--------------------------------------]  24.9%
+CPU coeur 2 : 24.9 %
+
+CPU  3: [███████-------------------------------------------]  15.9%
+CPU coeur 3 : 15.9 %
+
+CPU  4: [█████████-----------------------------------------]  19.4%
+CPU coeur 4 : 19.4 %
+
+CPU  5: [███-----------------------------------------------]   7.2%
+CPU coeur 5 : 7.2 %
+
+CPU  6: [██████--------------------------------------------]  13.0%
+CPU coeur 6 : 13.0 %
+
+CPU  7: [███-----------------------------------------------]   7.5%
+CPU coeur 7 : 7.5 %
+
+CPU  8: [███-----------------------------------------------]   6.6%
+CPU coeur 8 : 6.6 %
+
+CPU  9: [██------------------------------------------------]   5.2%
+CPU coeur 9 : 5.2 %
+
+CPU 10: [███████-------------------------------------------]  15.9%
+CPU coeur 10 : 15.9 %
+
+CPU 11: [██------------------------------------------------]   5.8%
+CPU coeur 11 : 5.8 %
+
+
+Température CPU
+
+Temperature
+40.0
+CPU Package
+49.75
+GPU Core
+57.0
+Temperature
+39.0
+GPU Hot Spot
+58.0
+CPU CCD #1
+49.75
+
+Mémoire RAM
+
+Totale : 15.93 GB
+Utilisée : 10.47 GB
+Libre : 5.46 GB
+
+Utilisation Disque
+
+C:\ : 78.5% utilisé
+D:\ : 27.2% utilisé
+
+Activité Réseau
+
+Envoyés: 43.94 MB
+Reçus: 877.80 MB
+
+Statistiques Réseau par interface
+
+Connexion au réseau local 2 : Envoyés: 0.00 MB | Reçus: 0.00 MB
+OpenVPN Wintun : Envoyés: 0.00 MB | Reçus: 0.00 MB
+Ethernet 4 : Envoyés: 43.94 MB | Reçus: 877.80 MB
+Connexion au réseau local : Envoyés: 0.00 MB | Reçus: 0.00 MB
+OpenVPN TAP-Windows6 : Envoyés: 0.00 MB | Reçus: 0.00 MB
+OpenVPN Data Channel Offload : Envoyés: 0.00 MB | Reçus: 0.00 MB
+Ethernet 2 : Envoyés: 0.00 MB | Reçus: 0.00 MB
+Connexion réseau Bluetooth 9 : Envoyés: 0.00 MB | Reçus: 0.00 MB
+Loopback Pseudo-Interface 1 : Envoyés: 0.00 MB | Reçus: 0.00 MB
+
+Tapez 'quit' pour quitter.
+
