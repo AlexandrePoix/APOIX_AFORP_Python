@@ -104,9 +104,7 @@ def display_dashboard():
                 time.sleep(1)
         except:
             pass
-
-with open("result.txt", "w") as f:
-    try:
+try:
         display_dashboard()
-    except KeyboardInterrupt:
+except KeyboardInterrupt:
         print("\nArrêt manuel par l'utilisateur.")
